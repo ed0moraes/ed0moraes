@@ -1,4 +1,4 @@
-### Sou eduardo estou no primeiro ano do ensinar medio
+### Sou eduardo estou no primeiro ano do ensino medio
 
 <!--
 **ed0moraes/ed0moraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
